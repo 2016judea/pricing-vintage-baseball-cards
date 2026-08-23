@@ -1,4 +1,4 @@
-# baseball-cards
+# Pricing Vintage Baseball Cards
 
 What is a card actually worth? Not the asking price — the price someone paid.
 
