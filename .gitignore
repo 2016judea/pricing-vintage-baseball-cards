@@ -1,0 +1,10 @@
+node_modules/
+
+# Credentials — never commit.
+.env
+
+# Contains a live eBay session (cookies). Never commit.
+.browser-profile/
+
+.DS_Store
+*.log
